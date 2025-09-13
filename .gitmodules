@@ -1,0 +1,6 @@
+[submodule "ThirdParty"]
+	path = ThirdParty
+	url = https://github.com/Ashutoshuke38/ThirdParty.git
+[submodule "CustomSpringFramework"]
+	path = CustomSpringFramework
+	url = https://github.com/Ashutoshuke38/CustomSpringFramework.git
